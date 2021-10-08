@@ -1,0 +1,16 @@
+{
+  "api": {
+    "itemInfo": "https://akai-meganee.github.io/primagi-data/item.json",
+    "qrInfo": "https://akai-meganee.github.io/primagi-data/qrInfo.json",
+    "ajax": "https://aikatsu.shop/ajax.php?url="
+  },
+  "cardInfo": {
+    "promoVersion": [],
+    "versionBase": 1
+  },
+  "rarityToStr": {
+    "1": "R",
+    "2": "SR",
+    "3": "UR"
+  }
+}
