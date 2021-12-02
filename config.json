@@ -2,6 +2,7 @@
   "api": {
     "itemInfo": "https://akai-meganee.github.io/primagi-data/item.json",
     "qrInfo": "https://akai-meganee.github.io/primagi-data/qrInfo.json",
+    "presentInfo": "https://akai-meganee.github.io/primagi-data/present.json",
     "ajax": "https://aikatsu.shop/ajax.php?url="
   },
   "cardInfo": {
