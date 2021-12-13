@@ -3,15 +3,10 @@
     "itemInfo": "https://akai-meganee.github.io/primagi-data/item.json",
     "qrInfo": "https://akai-meganee.github.io/primagi-data/qrInfo.json",
     "presentInfo": "https://akai-meganee.github.io/primagi-data/present.json",
-    "ajax": "https://aikatsu.shop/ajax.php?url="
+    "ajax": "https://ss1.xrea.com/aikatsu.s205.xrea.com/ajax.php?url="
   },
   "cardInfo": {
     "promoVersion": [],
     "versionBase": 1
-  },
-  "rarityToStr": {
-    "1": "R",
-    "2": "SR",
-    "3": "UR"
   }
 }
